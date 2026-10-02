@@ -31,6 +31,13 @@ Ingeniero de Sistemas en Cartagena, Colombia, con experiencia en desarrollo y ma
 ### [Sandalias Colombia](https://sandaliascolombia.com.co/)
 Desarrollo del sitio web de comercio electrónico de Sandalias Colombia. El sitio organiza el catálogo por categorías y ofrece navegación de productos, carrito de compras y suscripción al boletín.
 
+## Tiendas e-commerce con experiencia de soporte y mantenimiento
+
+- [Ipanema Colombia](https://ipanema.com.co/)
+- [Azaleia Colombia](https://azaleia.com.co/)
+- [Rider Colombia](https://rider.com.co/)
+- [Zaxy Colombia](https://zaxy.com.co/)
+
 ## Tecnologías y áreas
 
 - **Web:** JavaScript, React, Angular, HTML, CSS
