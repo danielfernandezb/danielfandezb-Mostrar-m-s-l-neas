@@ -38,6 +38,9 @@ Desarrollo del sitio e-commerce de Sandalias Colombia. La tienda organiza el cat
 - [Rider Colombia](https://rider.com.co/)
 - [Zaxy Colombia](https://zaxy.com.co/)
 
+### [Hyam Food](https://hyamfood.com/)
+Sitio web desarrollado con Angular y React.
+
 ## Tecnologías y áreas
 
 - **Web:** JavaScript, React, Angular, HTML, CSS
