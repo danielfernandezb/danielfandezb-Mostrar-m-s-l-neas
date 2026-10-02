@@ -52,7 +52,8 @@ Sitio web desarrollado con Angular y React.
 
 - **Ingeniería de Sistemas** · Tecnológico Comfenalco, 2022
 - **Tecnología en Análisis y Desarrollo de Sistemas** · SENA, 2010
-- **Formación complementaria, 2025:** AWS Academy (chatbots con IA), Microsoft Learn y certificado de Google sobre inteligencia artificial por Santander Open Academy
+- **Cursos certificados (2025):** E-commerce y gestión comercial; Google: Inteligencia Artificial y productividad; IA Generativa; SEO y content marketing; Storytelling en el Marketing Digital.
+- **Formación adicional:** AWS Academy (chatbot con IA) y cursos de Microsoft Learn.
 
 ## Contacto
 
