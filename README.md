@@ -29,9 +29,9 @@ Ingeniero de Sistemas en Cartagena, Colombia, con experiencia en desarrollo y ma
 ## Proyecto destacado
 
 ### [Sandalias Colombia](https://sandaliascolombia.com.co/)
-Desarrollo del sitio web de comercio electrónico de Sandalias Colombia. El sitio organiza el catálogo por categorías y ofrece navegación de productos, carrito de compras y suscripción al boletín.
+Desarrollo del sitio e-commerce de Sandalias Colombia. La tienda organiza el catálogo por categorías y ofrece navegación de productos, carrito de compras y suscripción al boletín.
 
-## Tiendas e-commerce con experiencia de soporte y mantenimiento
+### Landing pages de marcas
 
 - [Ipanema Colombia](https://ipanema.com.co/)
 - [Azaleia Colombia](https://azaleia.com.co/)
