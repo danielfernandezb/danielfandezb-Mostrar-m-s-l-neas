@@ -26,6 +26,11 @@ Ingeniero de Sistemas en Cartagena, Colombia, con experiencia en desarrollo y ma
 - Administré las plataformas VITAL y SIGOB.
 - Organicé datos y di soporte a las plataformas tecnológicas de la entidad.
 
+## Proyecto destacado
+
+### [Sandalias Colombia](https://sandaliascolombia.com.co/)
+Desarrollo del sitio web de comercio electrónico de Sandalias Colombia. El sitio organiza el catálogo por categorías y ofrece navegación de productos, carrito de compras y suscripción al boletín.
+
 ## Tecnologías y áreas
 
 - **Web:** JavaScript, React, Angular, HTML, CSS
